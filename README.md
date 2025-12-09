@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:87cefa&height=180&section=header&text=Elias%20Viotti&fontSize=50&animation=fadeIn" />
+<p align="center-top">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ffa500,100:ffff00&height=180&section=header&text=Welcome%20Everyone!&fontSize=50&animation=fadeIn" />
 </p>
+<a href="https://www.instagram.com/elias.viotti/?hl=de">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 <!--
 **EliasViotti/EliasViotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
