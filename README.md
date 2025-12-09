@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:87cefa&height=180&section=header&text=Elias%20Viotti&fontSize=50&animation=fadeIn" />
+</p>
 
 <!--
 **EliasViotti/EliasViotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
