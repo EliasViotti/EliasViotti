@@ -18,8 +18,7 @@ current_orientation: Fullstack Developer / Blockchain Developer
 
 education:
   - "Self-Taught: Cyfrin Updraft - Solidity/Foundry Smart Contract Development"
-  - "Associate Degree in Programming"
-  - "Universidad Tecnológica Nacional - Argentina"
+  - "Associate Degree in Programming - Universidad Tecnológica Nacional, Argentina"
 
 fields_of_interests:
   - Web Development
