@@ -13,37 +13,39 @@
 
 ```yaml
 name: Viotti Pablo Elias
-located_in: Formosa, Argentina
-current_orientation: Full Stack Developer \ Blockchain Developer
+location: Formosa, Argentina
+current_orientation: Fullstack Developer / Blockchain Developer
+
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+  - "Self-Taught: Cyfrin Updraft - Solidity/Foundry Smart Contract Development"
+  - "Associate Degree in Programming"
+  - "Universidad Tecnológica Nacional - Argentina"
 
 fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
+  - Web Development
+  - Backend Development
+  - Blockchain Development
+  - Smart Contract Development
+
 technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+  - Fullstack Developer
+  - "Alura LATAM - Oracle Next Education Certificates"
+  - "Coursera - Stanford Online - Cryptography I (in progress)"
+  - "Cyfrin Updraft - Blockchain Basics, Solidity, Foundry Fundamentals (in progress)"
+
+currently_learning:
+  - Solidity
+  - Foundry
+  - Smart Contract Auditing
+
+"2026_goals":
+  - Create multiple blockchain projects with fullstack integration
+
+hobbies:
+  - Fishing
+  - Gaming
+  - Homebuilding
+
 
 ```
 
